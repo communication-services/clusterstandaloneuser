@@ -1,0 +1,21 @@
+{
+  "name": "communication_clusterstandaloneuserservice",
+  "version": "1.0.0",
+  "description": "ClusterStandaloneUserService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : ""
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "ClusterStandaloneUser"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC"
+}
+
